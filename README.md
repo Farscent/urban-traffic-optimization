@@ -13,7 +13,9 @@ To break down the core drivers of congestion, I utilized a Mutually Exclusive, C
 <img width="2816" height="1536" alt="MECE_IssueTree" src="https://github.com/user-attachments/assets/244caf60-765d-4168-ae82-ad0e970092a1" />
 
 ## 📈 Data Insights
-*(Embed your Python-generated charts here showing the shift from 2021 to 2023)*
+
+<img width="3252" height="1895" alt="hustleton_transport_mode_share_trend" src="https://github.com/user-attachments/assets/a51c4574-ee8b-4875-88bc-350aa89d4556" />
+
 * **Public Transport** plummeted from 55% to 20%.
 * **Personal Vehicles** surged from 30% to 55%.
 * Analysis of the existing transit infrastructure highlighted severe bottlenecks: the underground network is highly reliable but severely overcrowded, while the bus network is affordable but suffers from fragmented routing.

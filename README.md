@@ -10,7 +10,7 @@ A rapidly growing metropolitan area ("Hustleton City") faced severe economic and
 ## 🧠 Methodology: MECE Issue Tree
 To break down the core drivers of congestion, I utilized a Mutually Exclusive, Collectively Exhaustive (MECE) framework to map out potential interventions across public transit improvements, private vehicle disincentivization, and infrastructure optimization.
 
-![Issue Tree Diagram](assets/issue_tree.png)
+![Issue Tree Diagram]<img width="2816" height="1536" alt="MECE_IssueTree" src="https://github.com/user-attachments/assets/244caf60-765d-4168-ae82-ad0e970092a1" />
 
 ## 📈 Data Insights
 *(Embed your Python-generated charts here showing the shift from 2021 to 2023)*

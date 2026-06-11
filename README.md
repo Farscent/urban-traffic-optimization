@@ -24,6 +24,9 @@ Using a 2x2 Impact vs. Feasibility matrix, I prioritized two immediate action it
 1. **Supply-Side Optimization:** Redesign and expand the road-based public transit (bus) network to provide full city coverage with simplified routing, directly targeting cost-conscious commuters.
 2. **Demand-Side Shifting:** Partner with local corporate stakeholders to implement staggered work hours and hybrid schedules, physically removing a percentage of peak-hour commuter volume without requiring heavy infrastructure investment.
 
+<img width="2816" height="1536" alt="High-Impact-Matrix" src="https://github.com/user-attachments/assets/6fb88152-6ef4-43ce-9337-6cb7b9536151" />
+
+
 ## 🛠️ Tools & Skills Demonstrated
 * Structured Problem Solving (McKinsey Frameworks)
 * Hypothesis-Driven Analysis
